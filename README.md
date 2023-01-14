@@ -1,4 +1,4 @@
-# Api Todo App
+# API Todo App
 ***
 ## Description:
 A simple app written in Python with the framework FastAPI. It shows how to create a basic API based in a structure of 3 layers:
